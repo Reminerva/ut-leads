@@ -29,6 +29,6 @@ DB_NAME=your_database_name
 
 
  **Struktur Tabel yang Dibutuhkan**
-- `leads(id_leads, tanggal, id_sales, id_produk, nama_lead, no_wa, kota)`  
+- `leads(id_leads, tanggal, id_sales, id_produk, nama_lead, no_wa, kota, id_user)`  
 - `produk(id_produk, nama_produk)`  
 - `sales(id_sales, nama_sales)`
